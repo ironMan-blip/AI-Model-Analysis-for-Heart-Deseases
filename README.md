@@ -6,6 +6,6 @@ This is a 2 member group project done by
 
 This project takes a raw classification data and pre processes them by removing the id column replacing NaN quantitive values with median and categorical values with mode and then replacing the categorical values with binary numbers using one hot encoding and then uses scaling on all values for proper representation of number ranges.
 
-Then the data was used on three models linear regression, knn, and neural network to train with 80% data and to test against the remaining 20%.
+Then the data was used on three models linear regression, knn, and neural network to train with 80% data and to test against the remaining 20% and then compare there prediction if a person has heart desease.
 
 I did all the coading part while the pdf was prepared by Ajwa
